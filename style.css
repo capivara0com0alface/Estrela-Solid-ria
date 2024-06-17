@@ -9,10 +9,11 @@ body{
 
 .fundo1{
     background-image: url(./Fundo\ 1.png);
-    background-size: 63%;
+    background-size: 74%;
     height: 677px;
     background-repeat: no-repeat;
-    margin-left: 482px;
+    margin-left: 320px;
+    margin-right: -39px;
 }
 
 
