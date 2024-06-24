@@ -1,11 +1,5 @@
 body{
-    background-color: aqua;
-}
-
-
-.foto3{
-    width: 100%;
-    border-radius: 50px;
+    background-color: #ffffff;
 }
 
 .fundo1{
@@ -22,7 +16,12 @@ body{
     display: flex;
     text-align: center;
     background-color: #D9D9D9;
+    
   }
+
+.back{
+    background-color: #D9D9D9;
+}
 
 @media screen and (min-width: 1024px){
     .foto3{
