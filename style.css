@@ -40,14 +40,13 @@ body{
     font-family: "Karma", serif;
   font-weight: 300;
   font-style: normal;
-}
-
-.Texto{
-    font-size: x-large;
+  font-size: x-large;
     position: absolute;
     right: 44%;
     padding: 10px;
 }
+
+
 
 .img{
     width: 4%;
