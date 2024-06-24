@@ -80,7 +80,10 @@ body{
   }
 
   .ret{
-    
+    padding: 19px;
+    width: 13%;
+    position: absolute;
+    right: 1%;
   }
 
 a{
