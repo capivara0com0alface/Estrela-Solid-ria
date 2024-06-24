@@ -37,16 +37,18 @@ body{
 }
 
 .fonteKARMAregular{
-    font-family: "Karma", serif;
+  font-family: "Karma", serif;
   font-weight: 300;
   font-style: normal;
   font-size: x-large;
-    position: absolute;
-    right: 44%;
-    padding: 10px;
+  position: absolute;
+  right: 44%;
+  padding: 10px;
 }
 
-
+.samos{
+    
+}
 
 .img{
     width: 4%;
