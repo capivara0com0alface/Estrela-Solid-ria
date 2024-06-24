@@ -6,6 +6,7 @@ body{
 
 .fundo1{
     background-image: url(./Fundo\ 1.png);
+    background-position: 10px 55px;
     background-size: 74%;
     height: 677px;
     background-repeat: no-repeat;
@@ -39,9 +40,7 @@ body{
 }
 
 @media screen and (min-width: 1024px){
-    .foto3{
-        width: 50%;
-    }
+    
 }
 
 
