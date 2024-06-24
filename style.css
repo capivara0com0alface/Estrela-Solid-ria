@@ -54,7 +54,31 @@ body{
     position: absolute;
     right: 39%;
     padding: 10px;
+    color: #243A2D;
   }
+
+  .fonteKARMAregular2{
+    font-family: "Karma", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+    position: absolute;
+    right: 33%;
+    padding: 10px;
+    color: #243A2D;
+  }
+
+  .fonteKARMAregular3{
+    font-family: "Karma", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+    position: absolute;
+    right: 30%;
+    padding: 10px;
+    color: #243A2D;
+  }
+
 
 a{
     color: #243A2D;
