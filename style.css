@@ -42,6 +42,13 @@ body{
   font-style: normal;
 }
 
+.Texto{
+    font-size: x-large;
+    position: absolute;
+    right: 44%;
+    padding: 10px;
+}
+
 .img{
     width: 4%;
 }
