@@ -104,17 +104,13 @@ a{
 
 .bri{
   color: #243A2D;
-  font-family: "Karma", serif;
-  font-weight: 300;
-  display: flex;
-  position: absolute;
-  top: 41%;
-  left: 2px;
-  font-size: 51%;
-}
-
-.samos{
-
+    font-family: "Karma", serif;
+    font-weight: 300;
+    display: flex;
+    position: absolute;
+    top: 41%;
+    left: 2px;
+    font-size: 51%;
 }
 
 .img{
