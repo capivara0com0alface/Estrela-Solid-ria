@@ -94,9 +94,18 @@ a{
 
 .doe{
   color: #243A2D;
+    font-family: "Karma", serif;
+    font-weight: 500;
+    position: relative;
+    left: 5%;
+    font-size: 57px;
+    line-height: 4;
+}
+
+.bri{
+  color: #243A2D;
   font-family: "Karma", serif;
-  font-weight: 600;
-  font-style: normal;
+    font-weight: 300;
 }
 
 .samos{
