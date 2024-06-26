@@ -5,6 +5,7 @@ body{
     background-color: #ffffff;
 }
 
+
 .fundo1{
     background-image: url(./Fundo\ 1.png);
     background-position: 10px 55px;
@@ -89,6 +90,13 @@ body{
 a{
     color: #243A2D;
     text-decoration: none;
+}
+
+.doe{
+  color: #243A2D;
+  font-family: "Karma", serif;
+  font-weight: 600;
+  font-style: normal;
 }
 
 .samos{
