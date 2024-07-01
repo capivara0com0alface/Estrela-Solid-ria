@@ -125,6 +125,8 @@ a{
   .ajuda{
     padding: 12px;
     background-color: green;
+    border-radius: 12px;
+    border: 1px black solid;
   }
 
 @media screen and (min-width: 1024px){
