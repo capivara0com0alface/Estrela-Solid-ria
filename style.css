@@ -80,6 +80,12 @@ body{
     color: #243A2D;
   }
 
+.fonteKARMAregular4{
+  font-family: "Karma", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
   .ret{
     padding: 19px;
     width: 13%;
