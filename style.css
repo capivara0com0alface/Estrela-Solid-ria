@@ -134,6 +134,12 @@ a{
     font-style: normal;
   }
 
+  .fontw{
+    font-family: "Karma", serif;
+    font-weight: 300;
+    font-style: normal;
+width: 100%;
+  }
 
   
 
