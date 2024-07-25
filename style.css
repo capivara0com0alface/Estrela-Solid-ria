@@ -142,7 +142,10 @@ width: 100%;
   }
 
   .STAR{
-    background-image: url(Star\ 2.png);
+    position: absolute;
+    left: 65%;
+    width: 35%;
+    top: -10px;
   }
   
 
