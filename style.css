@@ -141,6 +141,9 @@ a{
 width: 100%;
   }
 
+  .STAR{
+    background-image: url(Star\ 2.png);
+  }
   
 
 @media screen and (min-width: 1024px){
