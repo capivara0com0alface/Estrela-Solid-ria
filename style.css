@@ -149,6 +149,11 @@ width: 100%;
     
   }
   
+  .crédito{
+    font-family: "Karma", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
 
 @media screen and (min-width: 1024px){
     
