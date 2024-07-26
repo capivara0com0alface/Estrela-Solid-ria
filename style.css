@@ -185,17 +185,6 @@ text-align: center;
   top: 138%;
 }
 
-var counter = document.getElementById('counter');
-
-function increment(i, max){
-  if(i > max) return;
-  setTimeout(function(){
-    counter.innerText = i;
-    increment(i+1, max);
-  },10)
-}
-
-:increment(0,100);
 
 
 
