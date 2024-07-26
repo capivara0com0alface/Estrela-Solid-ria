@@ -165,8 +165,25 @@ text-align: center;
     justify-content: space-evenly;
   }
   .log1{
-
+    position: absolute;
+    width: 12%;
+    left: 13.5%;
+    top: 138%;
   }
+
+.log2{
+  position: absolute;
+    width: 12%;
+    left: 13.5%;
+    top: 138%;
+}
+
+.log3{
+  position: absolute;
+    width: 12%;
+    left: 13.5%;
+    top: 138%;
+}
 
 @media screen and (min-width: 1024px){
     
