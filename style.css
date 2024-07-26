@@ -162,6 +162,10 @@ text-align: center;
 
   .geral{
     display: flex;
+    justify-content: space-evenly;
+  }
+  .log1{
+
   }
 
 @media screen and (min-width: 1024px){
