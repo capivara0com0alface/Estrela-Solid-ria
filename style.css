@@ -186,7 +186,13 @@ text-align: center;
 }
 
 .n1{
-  
+  position: absolute;
+    font-size: 300%;
+    top: 154%;
+    left: 17%;
+    font-family: "Karma", serif;
+    font-weight: 10;
+    font-style: normal;
 }
 
 
