@@ -342,9 +342,11 @@ increment(0,90);
     <img src="Ellipse 2.png" alt="">
     <h1 id="counter1">0</h1>
     <h1 id="counter2">0</h1>
+    <h1 id="counter3">0</h1>
     <script>
         var counter1 = document.getElementById('counter1');
 var counter2 = document.getElementById('counter2');
+var counter3 = document.getElementById('counter3');
 
 function increment(i, max, element){
   if(i > max) return;
@@ -354,8 +356,9 @@ function increment(i, max, element){
   },10)
 }
 
-increment(0,1500, counter1 );
+increment(0,600, counter1 );
 increment(0,3000, counter2 );
+increment(0,15, counter3 );
     </script>
 
 </div>
