@@ -173,16 +173,16 @@ text-align: center;
 
 .log2{
   position: absolute;
-    width: 12%;
-    left: 13.5%;
-    top: 138%;
+    width: 10%;
+    left: 45%;
+    top: 135%;
 }
 
 .log3{
   position: absolute;
-    width: 12%;
-    left: 13.5%;
-    top: 138%;
+  width: 12%;
+  left: 74.5%;
+  top: 138%;
 }
 
 @media screen and (min-width: 1024px){
