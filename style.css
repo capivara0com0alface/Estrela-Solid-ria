@@ -256,15 +256,18 @@ text-align: center;
 }
 
 .d{
-
+  position: relative;
+  right: 60px;
 }
 
 .d2{
-  
+  position: relative;
+    right: 22px;
 }
 
 .d3{
-  
+  position: relative;
+    right: 15px;
 }
 @media screen and (min-width: 1024px){
     
