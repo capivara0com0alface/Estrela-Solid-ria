@@ -296,11 +296,17 @@ text-align: center;
 }
 
 .eu{
-
+  position: absolute;
+  padding: 10px;
+  bottom: -227%;
+  width: 60%;
 }
 
 .im{
-  
+  position: absolute;
+    padding: 10px;
+    bottom: -227%;
+    width: 60%;
 }
 
 @media screen and (min-width: 1024px){
