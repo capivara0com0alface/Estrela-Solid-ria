@@ -293,22 +293,24 @@ text-align: center;
 
 .qm{
   position: absolute;
-  padding: 10px;
-  bottom: -225%;
-  width: 51%;
-  left: 21%;
-  font-family: "Karma", serif;
+    padding: 10px;
+    bottom: -186%;
+    width: 51%;
+    left: 21%;
+    font-family: "Karma", serif;
     font-weight: 10;
     font-style: normal;
+    color: #243A2D;
 }
 
 .eu{
   position: absolute;
-  padding: 10px;
-  bottom: -225%;
-  width: 51%;
-  left: 21%;
-  font-family: "Karma", serif;
+    padding: 10px;
+    bottom: -226%;
+    font-size: 179%;
+    width: 51%;
+    left: 21%;
+    font-family: "Karma", serif;
     font-weight: 10;
     font-style: normal;
 }
