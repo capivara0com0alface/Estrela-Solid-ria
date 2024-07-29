@@ -394,5 +394,32 @@ text-align: center;
 
 
 @media screen and (min-width: 1700px){
-    
+  .log1 {
+    position: absolute;
+    width: 12%;
+    left: 14.5%;
+    top: 135%;
+}
+
+.n1 {
+  position: absolute;
+  font-size: 530%;
+  top: 144%;
+  left: 16.5%;
+  font-family: "Karma", serif;
+  font-weight: 10;
+  font-style: normal;
+}
+
+.m1 {
+  font-family: "Karma", serif;
+  position: absolute;
+  font-size: 534%;
+  top: 154%;
+  left: 16%;
+  font-family: "Karma", serif;
+  font-weight: 10;
+  font-style: normal;
+}
+
 }
