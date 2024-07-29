@@ -331,6 +331,35 @@ text-align: center;
     width: 35%;
     top: 105px;
 }
+
+.log1 {
+  position: absolute;
+  width: 17%;
+  left: 9.5%;
+  top: 152%;
+}
+
+.n1 {
+  position: absolute;
+  font-size: 530%;
+  top: 159%;
+  left: 11.5%;
+  font-family: "Karma", serif;
+  font-weight: 10;
+  font-style: normal;
+}
+
+.m1 {
+  font-family: "Karma", serif;
+  position: absolute;
+  font-size: 534%;
+  top: 169%;
+  left: 11.5%;
+  font-family: "Karma", serif;
+  font-weight: 10;
+  font-style: normal;
+}
+
 }
 
 
