@@ -325,7 +325,12 @@ text-align: center;
 }
 
 @media screen and (min-width: 1024px){
-    
+  .STAR {
+    position: absolute;
+    left: 73%;
+    width: 35%;
+    top: 105px;
+}
 }
 
 
