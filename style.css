@@ -170,9 +170,9 @@ text-align: center;
   }
   .log1{
     position: absolute;
-    width: 12%;
-    left: 13.5%;
-    top: 138%;
+        width: 13%;
+        left: 13.5%;
+        top: 152%;
   }
 
 .log2{
@@ -298,7 +298,7 @@ text-align: center;
 .qm{
   position: absolute;
     padding: 10px;
-    bottom: -186%;
+    bottom: -184%;
     width: 51%;
     left: 21%;
     font-family: "Karma", serif;
