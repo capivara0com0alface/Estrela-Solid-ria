@@ -9,9 +9,7 @@ body{
     background-color: #ffffff;
 }
 
-#Quemsomos{
-  text-align: center;
-}
+
 
 @media screen and (min-width: 425px){
   .fundo1{
@@ -56,6 +54,9 @@ body{
   padding: 10px;
 }
  
+#Quemsomos{
+  text-align: center;
+}
 .fonteKARMAregular1{
     font-family: "Karma", serif;
     font-weight: 300;
