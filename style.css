@@ -184,9 +184,9 @@ text-align: center;
 
 .log3{
   position: absolute;
-  width: 12%;
-  left: 74.5%;
-  top: 137%;
+  width: 15%;
+  left: 77.5%;
+  top: 135%;
 }
 
 .n1{
@@ -212,8 +212,8 @@ text-align: center;
 .n3{
   position: absolute;
     font-size: 530%;
-    top: 147%;
-    left: 78.5%;
+    top: 141%;
+        left: 81.5%;
     font-family: "Karma", serif;
     font-weight: 10;
     font-style: normal;
@@ -245,8 +245,8 @@ text-align: center;
   font-family: "Karma", serif;
   position: absolute;
   font-size: 530%;
-  top: 157%;
-  left: 74%;
+  top: 151%;
+        left: 75%;
     font-family: "Karma", serif;
     font-weight: 10;
     font-style: normal;
