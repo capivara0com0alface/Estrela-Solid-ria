@@ -9,6 +9,10 @@ body{
     background-color: #ffffff;
 }
 
+#Quemsomos{
+  text-align: center;
+}
+
 @media screen and (min-width: 425px){
   .fundo1{
     background-image: url(./Fundo\ 1.png);
