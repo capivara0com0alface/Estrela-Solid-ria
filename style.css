@@ -9,7 +9,7 @@ body{
     background-color: #ffffff;
 }
 
-@media screen and (min-width: 1496px){
+
 .fundo1{
     background-image: url(./Fundo\ 1.png);
     background-position: 10px 55px;
@@ -391,6 +391,18 @@ text-align: center;
   font-family: "Karma", serif;
   font-weight: 10;
   font-style: normal;
+}
+}
+
+@media screen and (min-width: 1496px){
+  .log1{
+    position: absolute;
+    width: 17%;
+    left: 9.5%;
+    top: 152%;
+}
+
+
 }
 
 
