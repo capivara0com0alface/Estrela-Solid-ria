@@ -298,9 +298,9 @@ text-align: center;
 .qm{
   position: absolute;
     padding: 10px;
-    bottom: -184%;
-    width: 51%;
-    left: 21%;
+    bottom: -171%;
+        width: 51%;
+        left: 15%;
     font-family: "Karma", serif;
     font-weight: 500;
     font-style: normal;
@@ -310,10 +310,10 @@ text-align: center;
 .eu{
   position: absolute;
     padding: 10px;
-    bottom: -226%;
-    font-size: 179%;
-    width: 51%;
-    left: 21%;
+    bottom: -208%;
+        font-size: 178%;
+        width: 72%;
+        left: 15%;
     font-family: "Karma", serif;
     font-weight: 10;
     font-style: normal;
@@ -323,9 +323,9 @@ text-align: center;
 .im{
   position: absolute;
     padding: 10px;
-    bottom: -227%;
-    width: 60%;
-    left: 19%;
+    bottom: -207%;
+        width: 81%;
+        left: 12%;
 }
 
 }
