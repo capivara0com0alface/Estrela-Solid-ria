@@ -359,6 +359,18 @@ text-align: center;
   top: 135%;
 }
 
+.eu {
+  position: absolute;
+  padding: 10px;
+  bottom: -225%;
+  font-size: 190%;
+  width: 51%;
+  left: 21%;
+  font-family: "Karma", serif;
+  font-weight: 10;
+  font-style: normal;
+  color: #ffffff;
+}
 
 
 }
