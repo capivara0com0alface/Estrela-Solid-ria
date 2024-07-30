@@ -9,7 +9,7 @@ body{
     background-color: #ffffff;
 }
 
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 1496px){
 .fundo1{
     background-image: url(./Fundo\ 1.png);
     background-position: 10px 55px;
